@@ -11,6 +11,11 @@ h1{
     align-items: center;
 }
 
+body{
+    background-color:rgb(243, 243, 243);
+    font-family: 游ゴシック,yu gothic,YuGothic,hiragino kaku gothic pron,hiragino kaku gothic pro,メイリオ,Meiryo,ＭＳ ゴシック,sans-serif;
+}
+
 .plantsworld{
     display: flex;
     width: 500px;
