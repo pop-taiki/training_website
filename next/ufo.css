@@ -11,11 +11,18 @@ h1{
     align-items: center;
 }
 
-.ufosworld{
+.ufoworld{
     display: flex;
     width: 500px;
     height: 300px;
     margin: 0% auto;
+}
+
+@media screen and (max-width:768px){
+    .ufoworld{
+        width: 300px;
+        height: 190px;
+    }
 }
 
 .description-u{
